@@ -17,6 +17,11 @@ echo 'YXluYXF7YTA3LTBhMWwtN3UzLXozYTU0LTE1LXAwMHgxYTktMjNwMWMzNS11MzIzfQ==' | ba
 
 `aynaq{a07-0a1l-7u3-z3a54-15-p00x1a9-23p1c35-u323}`
 
+>But we are not done yet, the flag needs to be in following format nland{...}
+>Let's try ROT13
+>Yup! That does the magic.
+`nland{n07-0n1y-7h3-m3n54-15-c00k1n9-23c1p35-h323}`
+
 ## THI is the Key (crypto)
 
 `:$(:,2g>zf1dly~y+y!&~a5`
@@ -113,4 +118,4 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 ```
 
 > Nice! We got the flag:
-> `nflag{0verf10wing_th1s_g3t5}`
+`nflag{0verf10wing_th1s_g3t5}`
